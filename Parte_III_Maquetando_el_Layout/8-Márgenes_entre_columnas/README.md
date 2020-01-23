@@ -19,8 +19,8 @@ Pudiendo ser lado:
 * **b** para margen inferior (bottom).
 * **l** para margen izquierdo (left).
 * **r** para margen derecho (right).
-* **x** para los márgenes superior e inferior.
-* **y** para los márgenes izquierdo y derecho.
+* **x** para los márgenes izquierdo y derecho.
+* **y** para los márgenes superior e inferior.
 * En blanco si es para todos los lados.
 
 Y pudiendo ser tamaño de tamaño:
