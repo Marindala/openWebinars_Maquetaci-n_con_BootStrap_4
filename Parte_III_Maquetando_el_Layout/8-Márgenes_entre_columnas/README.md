@@ -36,7 +36,7 @@ Y pudiendo ser tamaño de tamaño:
 
 ## Centrado horizontal
 
-Relacionado con el tema de los márgenes hay que destacar que BooStrap 4 introduce una nueva clase ***mx-auto*** que permite centrar horizontalmente un elemento dentro de su contenedor siempre que tenga una
+Relacionado con el tema de los márgenes hay que destacar que BooStrap 4 introduce una nueva clase ***mx-auto*** que permite centrar horizontalmente un elemento dentro de su contenedor siempre que tenga una anchura definida.
 
 ## Paddings
 
